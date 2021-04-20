@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rom-Resume/static/css/main.ece4797c.chunk.css",
+    "main.js": "/Rom-Resume/static/js/main.64d08de9.chunk.js",
+    "main.js.map": "/Rom-Resume/static/js/main.64d08de9.chunk.js.map",
+    "runtime-main.js": "/Rom-Resume/static/js/runtime-main.3f05b695.js",
+    "runtime-main.js.map": "/Rom-Resume/static/js/runtime-main.3f05b695.js.map",
+    "static/js/2.3d0a50c0.chunk.js": "/Rom-Resume/static/js/2.3d0a50c0.chunk.js",
+    "static/js/2.3d0a50c0.chunk.js.map": "/Rom-Resume/static/js/2.3d0a50c0.chunk.js.map",
+    "static/js/3.8dfc0b0c.chunk.js": "/Rom-Resume/static/js/3.8dfc0b0c.chunk.js",
+    "static/js/3.8dfc0b0c.chunk.js.map": "/Rom-Resume/static/js/3.8dfc0b0c.chunk.js.map",
+    "index.html": "/Rom-Resume/index.html",
+    "static/css/main.ece4797c.chunk.css.map": "/Rom-Resume/static/css/main.ece4797c.chunk.css.map",
+    "static/js/2.3d0a50c0.chunk.js.LICENSE.txt": "/Rom-Resume/static/js/2.3d0a50c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f05b695.js",
+    "static/js/2.3d0a50c0.chunk.js",
+    "static/css/main.ece4797c.chunk.css",
+    "static/js/main.64d08de9.chunk.js"
+  ]
+}

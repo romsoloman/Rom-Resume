@@ -1,0 +1,25 @@
+.education {
+    .place{
+        position: relative;
+        border-left: 5px solid grey;
+        .point{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            border: 2px solid #808080;
+            position: absolute;
+            top: -13px;
+            left: -13px;
+            background-color: #f7f9f7;
+        }
+        .place-info{
+            p:first-child{
+                color: black;
+                font-weight: 500;
+            }
+            p:nth-of-type(2){
+                font-style: italic;
+            }
+        }
+    }
+}

@@ -1,0 +1,105 @@
+    {
+        "_id": "18291dsahaq1812euo1",
+        "firstname": "Rom",
+        "fullname": "Soloman",
+        "email": "Romsoloman19@gmail.com",
+        "phone": "+972 526841616",
+        "imgUrl": "./imgs/rom.jpeg",
+        "address": "Shoham,Israel",
+        "languages": [
+            {
+                "language": "Hebrew",
+                "level": "Native speaker"
+            },
+            {
+                "language": "Engilsh",
+                "level": "Fluent"
+            }
+        ],
+        "links": [
+            "https://github.com/romsoloman",
+            "https://www.linkedin.com/in/rom-soloman-0b6442210/"
+        ],
+        "role": "Full-Stack / Frontend Web Developer",
+        "technologies": [
+            " React, Redux,",
+            " Vue.js, Vuex,",
+            " NodeJS,",
+            " MongoDB."
+        ],
+        "summary": "I'm a hands-on, excellent interpersonal skills and diligent full-stack web developer with experience in the areas of client, server web development and UI design.",
+        "education": [
+            {
+                "startedDate": "Jan 2021",
+                "finishedDate": "April 2021",
+                "place": "Coding Academy Bootcamp",
+                "placeDetails": "640 hours of an intensive coding bootcamp that qualifies Full-Stack developers."
+            },
+            {
+                "startedDate": "Sep 2015",
+                "finishedDate": "July 2017",
+                "place": "Shoham High-Scholl",
+                "placeDetails": "Graduate of 12 years of study and full matriculation certificate."
+            }
+        ],
+        "projects": [
+            {
+                "projectLink": "https://fixerr.herokuapp.com/#/",
+                "title": "Fixerr",
+                "subtitle": "An application where freelancers can sell their services and buy other people's. This application is a Fiverr clone and done with Vue,Vuex,Sass,NodeJS and MongoDB technologies."
+            }
+        ],
+        "hobbies": [
+            {
+                "title": "Soccer",
+                "subtitle": "I was a football player in a professional league and retired this year following the Corona Virus."
+            }
+        ],
+        "skills": [
+            {
+                "id": "v101",
+                "name": "HTML5",
+                "imgUrl": "./imgs/html5.png"
+            },
+            {
+                "id": "v102",
+                "name": "CSS3",
+                "imgUrl": "./imgs/css3.png"
+            },
+            {
+                "id": "v103",
+                "name": "Javascript",
+                "imgUrl": "./imgs/js.png"
+            },
+            {
+                "id": "v104",
+                "name": "React",
+                "imgUrl": "./imgs/react.png"
+            },
+            {
+                "id": "v105",
+                "name": "Vue",
+                "imgUrl": "./imgs/vue.png"
+            },
+            {
+                "id": "v106",
+                "name": "NodeJS",
+                "imgUrl": "./imgs/nodejs.png"
+            },
+            {
+                "id": "v107",
+                "name": "Sass",
+                "imgUrl": "./imgs/sass.png"
+            },
+            {
+                "id": "v108",
+                "name": "Git",
+                "imgUrl": "./imgs/git.png"
+            },
+            {
+                "id": "v109",
+                "name": "TypeScript",
+                "imgUrl": "./imgs/typescript.png"
+            }
+        ]
+    }

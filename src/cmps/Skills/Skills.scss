@@ -1,0 +1,17 @@
+.skills {
+    .skill:first-child{
+        border-left: 5px solid grey;
+    }
+    .skill{
+        text-align: center;
+        img{
+            height: 70px;
+            width: 70px;
+        }
+        p{
+            color: black;
+            font-weight: 500;
+            font-size: 16px;
+        }
+    }
+}

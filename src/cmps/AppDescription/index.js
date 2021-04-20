@@ -1,0 +1,1 @@
+export { AppDesciprion } from './AppDesciprion'

@@ -1,0 +1,13 @@
+.languages {
+    .language{
+        margin: 0;
+        border-left: 5px solid grey;
+        p:first-child{
+            color: black;
+            font-size: 17px;
+        }
+        p{
+            font-size: 14px;
+        }
+    }
+}
