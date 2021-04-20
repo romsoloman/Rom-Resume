@@ -26,7 +26,7 @@ export const AppInfo = ({ romData }) => {
     const fixedStyle = scrollTop < 150;
     return (
         <article className='container flex column align-center app-info'>
-            <section className={`flex column name-role text-center ${(!fixedStyle && !mobileVersion) && 'fixed'}`}>
+            <section className={`flex column name-role text-center ${(!fixedStyle && mobileVersion) && 'fixed'}`}>
                 <p className='name'>{romData.firstname} {romData.fullname}</p>
                 <p className='role'>{romData.role}</p>
             </section>

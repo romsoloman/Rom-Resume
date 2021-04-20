@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Rom-Resume/static/css/main.ece4797c.chunk.css",
-    "main.js": "/Rom-Resume/static/js/main.64d08de9.chunk.js",
-    "main.js.map": "/Rom-Resume/static/js/main.64d08de9.chunk.js.map",
+    "main.js": "/Rom-Resume/static/js/main.406cd115.chunk.js",
+    "main.js.map": "/Rom-Resume/static/js/main.406cd115.chunk.js.map",
     "runtime-main.js": "/Rom-Resume/static/js/runtime-main.3f05b695.js",
     "runtime-main.js.map": "/Rom-Resume/static/js/runtime-main.3f05b695.js.map",
     "static/js/2.3d0a50c0.chunk.js": "/Rom-Resume/static/js/2.3d0a50c0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3f05b695.js",
     "static/js/2.3d0a50c0.chunk.js",
     "static/css/main.ece4797c.chunk.css",
-    "static/js/main.64d08de9.chunk.js"
+    "static/js/main.406cd115.chunk.js"
   ]
 }
