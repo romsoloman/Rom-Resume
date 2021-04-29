@@ -19,18 +19,20 @@ export const AppInfo = ({ romData }) => {
     const handleResize = (ev) => {
         let resize = ev.target.innerWidth;
         setMobileVersion(prevState => prevState = resize);
-        console.log('resize', resize);
     }
     let visibilityPercents = (150 - scrollTop) / 150
     if (visibilityPercents < 0) visibilityPercents = 0;
     const fixedStyle = scrollTop < 150;
+    if (mobileVersion > 900) {
+        document.body.style.overflow = 'hidden'
+    } else document.body.style.overflow = 'scroll'
     return (
         <article className='container flex column align-center app-info'>
-            <section className={`flex column name-role text-center ${(!fixedStyle && mobileVersion) && 'fixed'}`}>
+            <section className={`flex column name-role text-center ${!fixedStyle && 'fixed'}`}>
                 <p className='name'>{romData.firstname} {romData.fullname}</p>
                 <p className='role'>{romData.role}</p>
             </section>
-            {(mobileVersion < 730) ? <img src={romData.imgUrl} alt="" style={{ opacity: visibilityPercents, height: 110 * visibilityPercents }} /> : <img src={romData.imgUrl} alt="" />}
+            <img src={romData.imgUrl} alt="" />
             <section className='about' style={{ opacity: visibilityPercents, height: 150 * visibilityPercents }}>
                 <p>{romData.summary}<span> My main specialites are in {romData.technologies.map(tech => tech)}</span> </p>
             </section>

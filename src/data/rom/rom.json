@@ -46,7 +46,7 @@
             {
                 "projectLink": "https://fixerr.herokuapp.com/#/",
                 "title": "Fixerr",
-                "subtitle": "An application where freelancers can sell their services and buy other people's. This application is a Fiverr clone and done with Vue,Vuex,Sass,NodeJS and MongoDB technologies."
+                "subtitle": "An application where freelancers can sell their services and buy other people's services. This application is a Fiverr clone and done with Vue,Vuex,Sass,NodeJS and MongoDB technologies."
             }
         ],
         "hobbies": [
